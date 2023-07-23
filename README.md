@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam, an <a href=(https://www.linkedin.com/in/adam-ahmed-2a5a39280/)
+<h1>Hi, I'm Adam,
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
