@@ -1,5 +1,4 @@
-<h1>Hi, I'm Adam,
-
+<h1>Hi, I'm Adam
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
